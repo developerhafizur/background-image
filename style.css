@@ -1,0 +1,13 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+.welcome-section{
+    height: 100vh;
+    background-image: linear-gradient(to left,rgba(10, 10, 37, 0.349), rgba(24, 15, 15, 0.575))
+    , url(/img/bbaa.jpg);
+    background-position: 100% 100%;
+    background-repeat: no-repeat;
+    background-size: cover;
+    
+}
